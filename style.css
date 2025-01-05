@@ -22,6 +22,9 @@ body {
     height: 75px;
     align-items: center;
     justify-content: space-around;
+    position: absolute;
+    left: 20px;
+    top: 20px;
 }
 .container {
     width: 100%;
@@ -34,11 +37,12 @@ body {
     justify-content: space-evenly;
     align-items: center;
     flex-wrap: nowrap;
+    
 }
 .launchpage {
     font-family: 'Nunito', sans-serif;
-    font-size: 35px;
-    font-weight: 700;
+    font-size: 38px;
+    font-weight: 800;
     color: #e52f37;
     transform: translate(200px);
 }
@@ -49,7 +53,7 @@ body {
 }
 .tt span {
     height: 28px;
-    font-size: 22px;
+    font-size: 20px;
     padding: 10px 15px;
 }
 .gt {
